@@ -1,6 +1,6 @@
 # Table of contents
 
-* [What is MyProduct?](README.md)
+* [Signatories.info](README.md)
 
 ## Guides
 
@@ -10,7 +10,7 @@
 
 ## Fundamentals
 
-* [Projects](fundamentals/projects.md)
+* [Concepts](fundamentals/concepts.md)
 * [Members](fundamentals/members.md)
 * [Task Lists](fundamentals/task-lists.md)
 * [Tasks](fundamentals/tasks.md)

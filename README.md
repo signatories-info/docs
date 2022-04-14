@@ -1,4 +1,8 @@
-# What is MyProduct?
+---
+description: Signatories.info is a referential of authorized signatories
+---
+
+# Signatories.info
 
 {% hint style="info" %}
 **Good to know:** providing a brief overview of your product and its core use cases is a great place to start with product docs. Your product might seem obvious to you – you made it! However, to others, even folks who are trying your product after reading your site or getting a sales demo, it can still be unclear. This is your chance to clarify your product and set the right expectations!
@@ -50,8 +54,8 @@ Follow our handy guides to get started on the basics as quickly as possible:
 
 Learn the fundamentals of MyProduct to get a deeper understanding of our main features:
 
-{% content-ref url="fundamentals/projects.md" %}
-[projects.md](fundamentals/projects.md)
+{% content-ref url="fundamentals/concepts.md" %}
+[concepts.md](fundamentals/concepts.md)
 {% endcontent-ref %}
 
 {% content-ref url="fundamentals/members.md" %}
